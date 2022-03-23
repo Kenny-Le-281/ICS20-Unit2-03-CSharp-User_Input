@@ -3,7 +3,6 @@
 //
 // This program accepts user input
 
-
 using System;
 
 class Program
