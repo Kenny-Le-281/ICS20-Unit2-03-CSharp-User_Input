@@ -13,7 +13,7 @@ class Program
         string streetName;
         int streetNumber;
 
-        Console.WriteLine ("This program gets a user's street number and name.");
+        Console.WriteLine("This program gets a user's street number and name.");
         Console.WriteLine("");
 
         Console.Write("Enter your street number: ");
