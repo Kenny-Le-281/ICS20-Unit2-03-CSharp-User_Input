@@ -23,10 +23,8 @@ class Program
         streetName = Console.ReadLine();
 
         Console.WriteLine("");
-        Console.WriteLine("Your info is: " + streetNumber + " " + streetName + ".");
+        Console.WriteLine("Your street address is: " + streetNumber + " " + streetName + ".");
 
         Console.WriteLine("\nDone.");
     }
-
-  }
 }
